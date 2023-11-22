@@ -1,0 +1,48 @@
+h1
+
+{
+
+  color: steelblue;
+
+}
+
+h2
+
+{
+
+  color:orangered;
+}
+
+h3
+
+{
+
+  color:steelblue;
+}
+
+h4
+
+{
+
+  color:steelblue;
+}
+
+body{
+  background-color: steelblue;
+}
+
+#carte
+
+{
+
+ width: 800px;
+
+margin:0 auto;
+
+background-color: orange;
+
+text-align: center;
+
+align-content: center;
+
+}
